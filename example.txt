@@ -1,1 +1,3 @@
 this is my example text file
+
+adding a second line
